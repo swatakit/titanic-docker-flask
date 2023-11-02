@@ -1,0 +1,228 @@
+2023-09-18 11:47:51,066:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.17.0.2:5000
+2023-09-18 11:47:51,066:INFO:[33mPress CTRL+C to quit[0m
+2023-09-18 11:47:51,067:INFO: * Restarting with stat
+2023-09-18 11:47:52,294:WARNING: * Debugger is active!
+2023-09-18 11:47:52,294:INFO: * Debugger PIN: 120-734-992
+2023-09-18 11:48:07,258:INFO:Prediction made: [0.11615928], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'male', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-18 11:48:07,260:INFO:172.17.0.1 - - [18/Sep/2023 11:48:07] "POST /predict HTTP/1.1" 200 -
+2023-09-18 11:48:07,999:INFO:Prediction made: [0.11615928], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'male', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-18 11:48:08,000:INFO:172.17.0.1 - - [18/Sep/2023 11:48:08] "POST /predict HTTP/1.1" 200 -
+2023-09-18 11:48:08,826:INFO:Prediction made: [0.11615928], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'male', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-18 11:48:08,827:INFO:172.17.0.1 - - [18/Sep/2023 11:48:08] "POST /predict HTTP/1.1" 200 -
+2023-09-18 11:48:09,804:INFO:Prediction made: [0.11615928], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'male', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-18 11:48:09,805:INFO:172.17.0.1 - - [18/Sep/2023 11:48:09] "POST /predict HTTP/1.1" 200 -
+2023-09-18 11:48:11,103:INFO:Prediction made: [0.11615928], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'male', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-18 11:48:11,104:INFO:172.17.0.1 - - [18/Sep/2023 11:48:11] "POST /predict HTTP/1.1" 200 -
+2023-09-18 12:15:24,812:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.17.0.2:5000
+2023-09-18 12:15:24,812:INFO:[33mPress CTRL+C to quit[0m
+2023-09-18 12:15:24,813:INFO: * Restarting with stat
+2023-09-18 12:15:25,703:WARNING: * Debugger is active!
+2023-09-18 12:15:25,705:INFO: * Debugger PIN: 313-230-108
+2023-09-18 12:15:42,009:INFO:Prediction made: [0.11615928], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'male', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-18 12:15:42,010:INFO:172.17.0.1 - - [18/Sep/2023 12:15:42] "POST /predict HTTP/1.1" 200 -
+2023-09-18 12:15:43,214:INFO:Prediction made: [0.11615928], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'male', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-18 12:15:43,215:INFO:172.17.0.1 - - [18/Sep/2023 12:15:43] "POST /predict HTTP/1.1" 200 -
+2023-09-18 12:15:43,955:INFO:Prediction made: [0.11615928], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'male', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-18 12:15:43,956:INFO:172.17.0.1 - - [18/Sep/2023 12:15:43] "POST /predict HTTP/1.1" 200 -
+2023-09-18 12:15:44,895:INFO:Prediction made: [0.11615928], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'male', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-18 12:15:44,896:INFO:172.17.0.1 - - [18/Sep/2023 12:15:44] "POST /predict HTTP/1.1" 200 -
+2023-09-18 12:15:46,832:INFO:Prediction made: [0.11615928], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'male', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-18 12:15:46,834:INFO:172.17.0.1 - - [18/Sep/2023 12:15:46] "POST /predict HTTP/1.1" 200 -
+2023-09-18 12:16:57,417:INFO:Prediction made: [0.62936413], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'female', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-18 12:16:57,418:INFO:172.17.0.1 - - [18/Sep/2023 12:16:57] "POST /predict HTTP/1.1" 200 -
+2023-09-18 12:24:41,931:INFO:Prediction made: [0.62936413], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'female', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-18 12:24:41,932:INFO:172.17.0.1 - - [18/Sep/2023 12:24:41] "POST /predict HTTP/1.1" 200 -
+2023-09-18 15:35:32,917:INFO:Prediction made: [0.62936413], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'female', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-18 15:35:32,919:INFO:172.17.0.1 - - [18/Sep/2023 15:35:32] "POST /predict HTTP/1.1" 200 -
+2023-09-19 03:29:02,161:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.17.0.2:5000
+2023-09-19 03:29:02,161:INFO:[33mPress CTRL+C to quit[0m
+2023-09-19 03:29:02,162:INFO: * Restarting with stat
+2023-09-19 03:29:02,998:WARNING: * Debugger is active!
+2023-09-19 03:29:03,009:INFO: * Debugger PIN: 963-856-198
+2023-09-19 03:29:08,262:INFO:Prediction made: [0.62936413], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'female', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-19 03:29:08,263:INFO:172.17.0.1 - - [19/Sep/2023 03:29:08] "POST /predict HTTP/1.1" 200 -
+2023-09-19 03:29:09,068:INFO:Prediction made: [0.62936413], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'female', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-19 03:29:09,069:INFO:172.17.0.1 - - [19/Sep/2023 03:29:09] "POST /predict HTTP/1.1" 200 -
+2023-09-19 03:29:10,129:INFO:Prediction made: [0.62936413], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'female', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-19 03:29:10,130:INFO:172.17.0.1 - - [19/Sep/2023 03:29:10] "POST /predict HTTP/1.1" 200 -
+2023-09-19 06:13:38,758:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.17.0.2:5000
+2023-09-19 06:13:38,759:INFO:[33mPress CTRL+C to quit[0m
+2023-09-19 06:13:38,761:INFO: * Restarting with stat
+2023-09-19 06:13:40,280:WARNING: * Debugger is active!
+2023-09-19 06:13:40,281:INFO: * Debugger PIN: 114-565-470
+2023-09-19 06:14:10,371:INFO:Prediction made: [0.62936413], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'female', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-19 06:14:10,372:INFO:172.17.0.1 - - [19/Sep/2023 06:14:10] "POST /predict HTTP/1.1" 200 -
+2023-09-19 06:14:12,244:INFO:Prediction made: [0.62936413], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'female', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-19 06:14:12,248:INFO:172.17.0.1 - - [19/Sep/2023 06:14:12] "POST /predict HTTP/1.1" 200 -
+2023-09-19 06:14:13,108:INFO:Prediction made: [0.62936413], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'female', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-19 06:14:13,109:INFO:172.17.0.1 - - [19/Sep/2023 06:14:13] "POST /predict HTTP/1.1" 200 -
+2023-09-19 07:04:19,342:INFO:Prediction made: [0.62936413], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'female', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-19 07:04:19,348:INFO:172.17.0.1 - - [19/Sep/2023 07:04:19] "POST /predict HTTP/1.1" 200 -
+2023-09-19 07:04:20,002:INFO:Prediction made: [0.62936413], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'female', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-19 07:04:20,004:INFO:172.17.0.1 - - [19/Sep/2023 07:04:20] "POST /predict HTTP/1.1" 200 -
+2023-09-19 07:04:20,671:INFO:Prediction made: [0.62936413], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'female', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-19 07:04:20,672:INFO:172.17.0.1 - - [19/Sep/2023 07:04:20] "POST /predict HTTP/1.1" 200 -
+2023-09-19 07:04:21,385:INFO:Prediction made: [0.62936413], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'female', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-19 07:04:21,386:INFO:172.17.0.1 - - [19/Sep/2023 07:04:21] "POST /predict HTTP/1.1" 200 -
+2023-09-19 07:04:22,744:INFO:Prediction made: [0.62936413], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'female', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-09-19 07:04:22,746:INFO:172.17.0.1 - - [19/Sep/2023 07:04:22] "POST /predict HTTP/1.1" 200 -
+2023-10-27 09:14:42,772:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.17.0.2:5000
+2023-10-27 09:14:42,772:INFO:[33mPress CTRL+C to quit[0m
+2023-10-27 09:14:42,774:INFO: * Restarting with stat
+2023-10-27 09:14:44,413:WARNING: * Debugger is active!
+2023-10-27 09:14:44,415:INFO: * Debugger PIN: 442-781-227
+2023-10-27 09:15:00,677:INFO:Prediction made: [0.62936413], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'female', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-10-27 09:15:00,678:INFO:172.17.0.1 - - [27/Oct/2023 09:15:00] "POST /predict HTTP/1.1" 200 -
+2023-10-27 09:15:06,473:INFO:Prediction made: [0.62936413], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'female', 'Age': 40, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-10-27 09:15:06,477:INFO:172.17.0.1 - - [27/Oct/2023 09:15:06] "POST /predict HTTP/1.1" 200 -
+2023-10-27 09:15:29,764:INFO:Prediction made: [0.13359663], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'male', 'Age': 35, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-10-27 09:15:29,765:INFO:172.17.0.1 - - [27/Oct/2023 09:15:29] "POST /predict HTTP/1.1" 200 -
+2023-10-27 10:58:04,007:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.17.0.2:5000
+2023-10-27 10:58:04,007:INFO:[33mPress CTRL+C to quit[0m
+2023-10-27 10:58:04,010:INFO: * Restarting with stat
+2023-10-27 10:58:05,423:WARNING: * Debugger is active!
+2023-10-27 10:58:05,425:INFO: * Debugger PIN: 197-216-146
+2023-10-27 10:58:10,295:ERROR:Exception occurred
+Traceback (most recent call last):
+  File "/app/app.py", line 22, in predict
+    prediction = model.transform(pd.DataFrame([features]))[:,1]
+  File "/usr/local/lib/python3.10/site-packages/sklearn/pipeline.py", line 658, in transform
+    Xt = transform.transform(Xt)
+  File "/usr/local/lib/python3.10/site-packages/sklearn/pipeline.py", line 658, in transform
+    Xt = transform.transform(Xt)
+  File "/usr/local/lib/python3.10/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+  File "/app/utils/CustomTransformers.py", line 44, in transform
+    Xts = [t.transform(X) for _, t in self.transformer_list]
+  File "/app/utils/CustomTransformers.py", line 44, in <listcomp>
+    Xts = [t.transform(X) for _, t in self.transformer_list]
+  File "/usr/local/lib/python3.10/site-packages/sklearn/pipeline.py", line 658, in transform
+    Xt = transform.transform(Xt)
+  File "/usr/local/lib/python3.10/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+  File "/app/utils/CustomTransformers.py", line 71, in transform
+    Ximp = self.imp.transform(X)
+AttributeError: 'NoneType' object has no attribute 'transform'
+2023-10-27 10:58:10,298:INFO:172.17.0.1 - - [27/Oct/2023 10:58:10] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2023-10-27 10:58:12,768:ERROR:Exception occurred
+Traceback (most recent call last):
+  File "/app/app.py", line 22, in predict
+    prediction = model.transform(pd.DataFrame([features]))[:,1]
+  File "/usr/local/lib/python3.10/site-packages/sklearn/pipeline.py", line 658, in transform
+    Xt = transform.transform(Xt)
+  File "/usr/local/lib/python3.10/site-packages/sklearn/pipeline.py", line 658, in transform
+    Xt = transform.transform(Xt)
+  File "/usr/local/lib/python3.10/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+  File "/app/utils/CustomTransformers.py", line 44, in transform
+    Xts = [t.transform(X) for _, t in self.transformer_list]
+  File "/app/utils/CustomTransformers.py", line 44, in <listcomp>
+    Xts = [t.transform(X) for _, t in self.transformer_list]
+  File "/usr/local/lib/python3.10/site-packages/sklearn/pipeline.py", line 658, in transform
+    Xt = transform.transform(Xt)
+  File "/usr/local/lib/python3.10/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+  File "/app/utils/CustomTransformers.py", line 71, in transform
+    Ximp = self.imp.transform(X)
+AttributeError: 'NoneType' object has no attribute 'transform'
+2023-10-27 10:58:12,769:INFO:172.17.0.1 - - [27/Oct/2023 10:58:12] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2023-10-27 11:05:00,399:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.17.0.2:5000
+2023-10-27 11:05:00,400:INFO:[33mPress CTRL+C to quit[0m
+2023-10-27 11:05:00,401:INFO: * Restarting with stat
+2023-10-27 11:05:02,052:WARNING: * Debugger is active!
+2023-10-27 11:05:02,053:INFO: * Debugger PIN: 503-887-194
+2023-10-27 11:05:06,558:ERROR:Exception occurred
+Traceback (most recent call last):
+  File "/app/app.py", line 22, in predict
+    prediction = model.transform(pd.DataFrame([features]))[:,1]
+  File "/usr/local/lib/python3.10/site-packages/sklearn/utils/_available_if.py", line 32, in __get__
+    if not self.check(obj):
+  File "/usr/local/lib/python3.10/site-packages/sklearn/model_selection/_search.py", line 362, in check
+    getattr(self.best_estimator_, attr)
+  File "/usr/local/lib/python3.10/site-packages/sklearn/utils/_available_if.py", line 33, in __get__
+    raise attr_err
+AttributeError: This 'Pipeline' has no attribute 'transform'
+2023-10-27 11:05:06,566:INFO:172.17.0.1 - - [27/Oct/2023 11:05:06] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2023-10-27 11:27:32,479:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.17.0.2:5000
+2023-10-27 11:27:32,479:INFO:[33mPress CTRL+C to quit[0m
+2023-10-27 11:27:32,481:INFO: * Restarting with stat
+2023-10-27 11:27:33,594:WARNING: * Debugger is active!
+2023-10-27 11:27:33,596:INFO: * Debugger PIN: 112-631-395
+2023-10-27 11:27:35,424:ERROR:Exception occurred
+Traceback (most recent call last):
+  File "/app/app.py", line 22, in predict
+    if model.steps[1][0]=='logit_hyper':
+AttributeError: 'RandomizedSearchCV' object has no attribute 'steps'
+2023-10-27 11:27:35,425:INFO:172.17.0.1 - - [27/Oct/2023 11:27:35] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2023-10-27 11:27:37,515:ERROR:Exception occurred
+Traceback (most recent call last):
+  File "/app/app.py", line 22, in predict
+    if model.steps[1][0]=='logit_hyper':
+AttributeError: 'RandomizedSearchCV' object has no attribute 'steps'
+2023-10-27 11:27:37,516:INFO:172.17.0.1 - - [27/Oct/2023 11:27:37] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2023-10-27 11:40:46,467:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.17.0.2:5000
+2023-10-27 11:40:46,468:INFO:[33mPress CTRL+C to quit[0m
+2023-10-27 11:40:46,469:INFO: * Restarting with stat
+2023-10-27 11:40:47,323:WARNING: * Debugger is active!
+2023-10-27 11:40:47,329:INFO: * Debugger PIN: 690-635-240
+2023-10-27 11:40:55,814:INFO:Prediction made: [0.12052129], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'male', 'Age': 35, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-10-27 11:40:55,815:INFO:172.17.0.1 - - [27/Oct/2023 11:40:55] "POST /predict HTTP/1.1" 200 -
+2023-10-27 11:40:57,680:INFO:Prediction made: [0.12052129], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'male', 'Age': 35, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-10-27 11:40:57,680:INFO:172.17.0.1 - - [27/Oct/2023 11:40:57] "POST /predict HTTP/1.1" 200 -
+2023-10-27 11:41:51,505:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.17.0.2:5000
+2023-10-27 11:41:51,506:INFO:[33mPress CTRL+C to quit[0m
+2023-10-27 11:41:51,508:INFO: * Restarting with stat
+2023-10-27 11:41:52,844:WARNING: * Debugger is active!
+2023-10-27 11:41:52,846:INFO: * Debugger PIN: 128-786-707
+2023-10-27 11:41:56,297:ERROR:Exception occurred
+Traceback (most recent call last):
+  File "/app/app.py", line 22, in predict
+    if "logit_hyper" in model.estimator.named_steps:
+AttributeError: 'Pipeline' object has no attribute 'estimator'
+2023-10-27 11:41:56,298:INFO:172.17.0.1 - - [27/Oct/2023 11:41:56] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2023-10-27 11:42:06,547:ERROR:Exception occurred
+Traceback (most recent call last):
+  File "/app/app.py", line 22, in predict
+    if "logit_hyper" in model.estimator.named_steps:
+AttributeError: 'Pipeline' object has no attribute 'estimator'
+2023-10-27 11:42:06,548:INFO:172.17.0.1 - - [27/Oct/2023 11:42:06] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2023-10-27 11:46:59,981:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.17.0.2:5000
+2023-10-27 11:46:59,982:INFO:[33mPress CTRL+C to quit[0m
+2023-10-27 11:46:59,983:INFO: * Restarting with stat
+2023-10-27 11:47:00,865:WARNING: * Debugger is active!
+2023-10-27 11:47:00,865:INFO: * Debugger PIN: 478-421-926
+2023-10-27 11:47:04,828:INFO:Prediction made: [0.13359663], Features: {'PassengerId': 892, 'Pclass': 3, 'Name': 'Kelly, Mr. James', 'Sex': 'male', 'Age': 35, 'SibSp': 1, 'Parch': 0, 'Ticket': '330911', 'Fare': 7.8292, 'Cabin': '', 'Embarked': 'Q'}
+2023-10-27 11:47:04,829:INFO:172.17.0.1 - - [27/Oct/2023 11:47:04] "POST /predict HTTP/1.1" 200 -

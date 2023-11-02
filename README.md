@@ -29,3 +29,7 @@ Building upon the basics, this section focuses on the advanced implementation of
 3. [app.py](app.py): This script creates a Flask web application to serve predictions from the Titanic survival model. It loads a pre-trained model, sets up an endpoint for prediction requests, and processes incoming JSON data to return survival predictions. The application is equipped with logging to record prediction details and errors, enhancing monitoring and debugging capabilities. The structure demonstrates how to integrate a machine learning model into a web service for real-time predictions.
 
 For full turorial on scikit-learn Pipeline, please refer to this [repository](https://github.com/swatakit/ml-workflow-sklearn-pipeline)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details

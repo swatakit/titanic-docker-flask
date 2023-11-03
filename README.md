@@ -29,3 +29,27 @@ Building upon the basics, this section focuses on the advanced implementation of
 3. [app.py](app.py): This script creates a Flask web application to serve predictions from the Titanic survival model. It loads a pre-trained model, sets up an endpoint for prediction requests, and processes incoming JSON data to return survival predictions. The application is equipped with logging to record prediction details and errors, enhancing monitoring and debugging capabilities. The structure demonstrates how to integrate a machine learning model into a web service for real-time predictions.
 
 For full turorial on scikit-learn Pipeline, please refer to this [repository](https://github.com/swatakit/ml-workflow-sklearn-pipeline)
+
+Finally, build and deploy the docker with these commands
+
+- Build Docker image: 
+    ```
+    docker build -t titanic-flask-app .
+    ```
+  
+- Run Docker container:
+    ```
+    docker run -p 5000:5000 \
+      -v /mnt/c/Siraprapa/Workspace/Titanic/log:/app/log \
+      -v /mnt/c/Siraprapa/Workspace/Titanic/log:/app/data \
+      titanic-flask-app
+    ```
+- To test the app, fire an api call
+    ```
+    curl --request POST \
+    --url http://localhost:5000/predict \
+    --header 'Content-Type: application/json' \
+    --data '{"PassengerId": 892, "Pclass": 3, "Name": "Kelly, Mr. James", "Sex": "male", "Age": 35, "SibSp": 1, "Parch": 0, "Ticket": "330911", "Fare": 7.8292, "Cabin": "", "Embarked": "Q"}'
+  ```
+
+  Check the log [here](log/prediction.log) 

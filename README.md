@@ -53,3 +53,8 @@ Finally, build and deploy the docker with these commands
   ```
 
   Check the log [here](log/prediction.log) 
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
